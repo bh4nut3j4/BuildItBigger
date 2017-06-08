@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BuildItBigger</string>
+    <string name="unitID">ca-app-pub-9082515935434230/9146060508</string>
+    <string name="getjoke">Get Me a Joke</string>
+    <string name="desc">Udacity BuildItBigger Project</string>
+    <string name="nointernet">No Internet</string>
+</resources>
